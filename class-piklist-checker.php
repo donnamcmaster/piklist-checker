@@ -208,7 +208,7 @@ if (!class_exists('Piklist_Checker'))
           return $message;
     }
     
-    public static function show_message($message, $errormsg = true)
+    public static function show_message() //$message, $errormsg = true)
     {
       if (!empty(piklist_checker::$plugins) || piklist_checker::$theme == true) : ?>
 
