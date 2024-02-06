@@ -1,7 +1,7 @@
 <?php
 /*
  * Piklist Checker
- * Version: 0.6.2
+ * Version: 0.7.0
  *
  * Verifies that Piklist is installed and activated.
  * If not:
